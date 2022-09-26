@@ -42,7 +42,7 @@ body {
 }
 
 .panel {
-    background: url(/src/images/painel.jpg) center center no-repeat;
+    background: url(./src/images/painel.jpg) center center no-repeat;
     height: 600px;
 }
 
